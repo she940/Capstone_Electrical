@@ -1,0 +1,16 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\silva\Documents\GitHub\Capstone_Electrical\she940\Multiple Gains.asc
+Start Time: Thu Mar 19 13:06:25 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Node NC_02 is floating.
+
+WARNING: Less than two connections to node nc_01.  This node is used by v1.
+WARNING: Less than two connections to node nc_02.  This node is used by v1.
+WARNING: Less than two connections to node v1.  This node is used by r12.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.282 seconds.
+
