@@ -1,16 +1,105 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\silva\Documents\GitHub\Capstone_Electrical\she940\Multiple Gains.asc
-Start Time: Thu Mar 19 13:06:25 2026
+Start Time: Sun Mar 22 23:19:36 2026
 solver = Normal
 Maximum thread count: 8
 tnom = 27
 temp = 27
 method = modified trap
-WARNING: Node NC_02 is floating.
+WARNING: Less than two connections to node v1.  This node is used by d2.
+WARNING: Less than two connections to node debug.  This node is used by d3.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Gmin = 1000
+Gmin = 107.374
+Gmin = 11.5292
+Gmin = 1.23794
+Gmin = 0.132923
+Gmin = 0.0142725
+Gmin = 0.0015325
+Gmin = 0.00016455
+Gmin = 1.76685e-05
+Gmin = 1.89714e-06
+vernier = 0.5
+Gmin = 3.18287e-07
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 3.06249e-07
+vernier = 0.0416667
+Gmin = 2.78967e-07
+vernier = 0.0555555
+vernier = 0.074074
+Gmin = 2.38636e-07
+vernier = 0.0987653
+vernier = 0.131687
+Gmin = 1.86253e-07
+vernier = 0.175583
+Gmin = 1.26442e-07
+vernier = 0.23411
+vernier = 0.312147
+vernier = 0.156073
+Gmin = 8.02457e-08
+vernier = 0.0780367
+vernier = 0.0390184
+vernier = 0.0195092
+vernier = 0.00975459
+Gmin = 8.21701e-08
+vernier = 0.0130061
+vernier = 0.0173415
+Gmin = 7.96531e-08
+vernier = 0.023122
+Gmin = 7.57343e-08
+vernier = 0.0308293
+vernier = 0.0411057
+Gmin = 6.97369e-08
+vernier = 0.0548076
+vernier = 0.0730768
+Gmin = 6.12093e-08
+vernier = 0.0974357
+Gmin = 4.95728e-08
+vernier = 0.129914
+vernier = 0.0649571
+vernier = 0.0324786
+Gmin = 4.22431e-08
+vernier = 0.0162393
+vernier = 0.00811964
+Gmin = 4.16478e-08
+vernier = 0.0108262
+vernier = 0.0144349
+Gmin = 4.03916e-08
+vernier = 0.0192465
+vernier = 0.025662
+Gmin = 3.8468e-08
+vernier = 0.0342161
+Gmin = 3.56284e-08
+vernier = 0.0456214
+vernier = 0.0608285
+Gmin = 3.13347e-08
+vernier = 0.0811047
+vernier = 0.10814
+Gmin = 2.55529e-08
+vernier = 0.144186
+Gmin = 1.85705e-08
+vernier = 0.192248
+vernier = 0.25633
+Gmin = 1.09295e-08
+vernier = 0.341774
+vernier = 0.455698
+Gmin = 4.75658e-09
+vernier = 0.607598
+Gmin = 1.32246e-09
+vernier = 0.81013
+vernier = 1
+Gmin = 1.79128e-10
+Gmin = 1.92337e-11
+Gmin = 2.0652e-12
+Gmin = 2.21749e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
 
-WARNING: Less than two connections to node nc_01.  This node is used by v1.
-WARNING: Less than two connections to node nc_02.  This node is used by v1.
-WARNING: Less than two connections to node v1.  This node is used by r12.
-Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.282 seconds.
+Total elapsed time: 0.698 seconds.
 
