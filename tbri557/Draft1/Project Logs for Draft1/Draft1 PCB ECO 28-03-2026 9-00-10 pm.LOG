@@ -1,0 +1,182 @@
+Added Component: Designator=C?(FP-CL21-IPC_A)
+Add component (AddParameter): Name = "Capacitance"; Value = "999uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.037inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP-CL21-IPC_A)
+Add component (AddParameter): Name = "Capacitance"; Value = "999uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.037inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP-CL21-IPC_A)
+Add component (AddParameter): Name = "Capacitance"; Value = "999uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.037inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP-CL21-IPC_A)
+Add component (AddParameter): Name = "Capacitance"; Value = "999uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.037inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=J?(M8_BOLT_LUG)
+Added Component: Designator=J?(M8_BOLT_LUG)
+Added Component: Designator=J?(M8_BOLT_LUG)
+Added Component: Designator=J(3949-OWMB-858540SA-40-15CT-ND)
+Add component (AddParameter): Name = "Category"; Value = "Audio Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ole Wolff"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "OWMB-858540SA-40-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.01, 10=0.79, 25=0.7184, 50=0.6688, 100=0.6234, 250=0.56864, 500=0.5355 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "3949-OWMB-858540SA-40-15DKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(2N7002W)
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin Q?-2
+Added Pin To Net: NetName=5V Pin=U?-J2-5
+Added Pin To Net: NetName=5V Pin=U?-J2-6
+Added Pin To Net: NetName=GND Pin=U?-J2-14
+Added Pin To Net: NetName=5V Pin=U?-J3-13
+Add Net: Net with name "5V" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Added Pin To Net: NetName=NetJ_N Pin=J-N
+Added Net: Name=NetJ_N
+Added Pin To Net: NetName=NetQ?_1 Pin=U?-J3-6
+Added Net: Name=NetQ?_1
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Change Class Name : Old Net Name=ESP32 New Net Name=Sensing
+Added Class: Name=ESP32
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? *
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? *
+Added Member To Class: ClassName=Sensing Member=Component D? BZT52H-B4V7
+Added Member To Class: ClassName=Sensing Member=Component D? LTST-C170GKT
+Added Member To Class: ClassName=Sensing Member=Component D? BZT52H-B4V7
+Added Member To Class: ClassName=Sensing Member=Component D? BZT52H-B4V7
+Add Class Member: Failed to add class member : Component J? M8_BOLT_LUG
+Add Class Member: Failed to add class member : Component J? M8_BOLT_LUG
+Add Class Member: Failed to add class member : Component J? M8_BOLT_LUG
+Added Member To Class: ClassName=Sensing Member=Component P? Dual Banana Plugs
+Added Member To Class: ClassName=Sensing Member=Component R? D1MPAB2512QR002FA-T4
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? D1MPAB2512QR002FA-T4
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? D1MPAB2512QR002FA-T4
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? D1MPAB2512QR002FA-T4
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component U? LM358BIDR
+Added Member To Class: ClassName=Sensing Member=Component U? LM358BIDR
+Added Member To Class: ClassName=Sensing Member=Component U? LM358BIDR
+Added Member To Class: ClassName=Sensing Member=Component U? LM358BIDR

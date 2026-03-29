@@ -1,0 +1,98 @@
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C? Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R? Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35ML10T20
+Added Component: Designator=J?(M8_BOLT_LUG)
+Added Component: Designator=J?(M8_BOLT_LUG)
+Added Component: Designator=J?(M8_BOLT_LUG)
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Net: Net with name "5V" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Change Class Name : Old Net Name=ESP32 New Net Name=Sensing
+Added Class: Name=ESP32
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? *
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? *
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component C? CL21B104KBCNNNC
+Added Member To Class: ClassName=Sensing Member=Component D? BZT52H-B4V7
+Added Member To Class: ClassName=Sensing Member=Component D? LTST-C170GKT
+Added Member To Class: ClassName=Sensing Member=Component D? BZT52H-B4V7
+Added Member To Class: ClassName=Sensing Member=Component D? BZT52H-B4V7
+Add Class Member: Failed to add class member : Component J? M8_BOLT_LUG
+Add Class Member: Failed to add class member : Component J? M8_BOLT_LUG
+Add Class Member: Failed to add class member : Component J? M8_BOLT_LUG
+Added Member To Class: ClassName=Sensing Member=Component P? Dual Banana Plugs
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? D1MPAB2512QR002FA-T4
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? D1MPAB2512QR002FA-T4
+Added Member To Class: ClassName=Sensing Member=Component R? D1MPAB2512QR002FA-T4
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? D1MPAB2512QR002FA-T4
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component R? RC0805FR-071KL
+Added Member To Class: ClassName=Sensing Member=Component U? LM358BIDR
+Added Member To Class: ClassName=Sensing Member=Component U? LM358BIDR
+Added Member To Class: ClassName=Sensing Member=Component U? LM358BIDR
+Added Member To Class: ClassName=Sensing Member=Component U? LM358BIDR

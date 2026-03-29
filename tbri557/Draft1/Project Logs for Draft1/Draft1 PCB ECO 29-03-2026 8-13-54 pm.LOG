@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=12V Pin=TP1-TP
+Added Pin To Net: NetName=5V Pin=TP1-TP
+Added Room: Name=Sensing

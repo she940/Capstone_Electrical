@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=Vbat Pin=R2-2
+Added Net: Name=Vbat
+Added Room: Name=Sensing

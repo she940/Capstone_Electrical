@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Vsns_BUFF Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=Isns_LG Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=Isns_HG Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Member From Class: ClassName=ESP32 Member=C19
+Removed Member From Class: ClassName=ESP32 Member=C20
+Removed Member From Class: ClassName=ESP32 Member=C21
+Added Room: Name=Sensing

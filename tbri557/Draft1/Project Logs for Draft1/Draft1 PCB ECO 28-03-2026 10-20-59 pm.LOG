@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C20 Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Change Component Footprint: Designator=C21 Old Footprint=FP-CL21-IPC_A New Footprint=FP-CL21-IPC_A
+Added Component: Designator=J1(M8_Bolt_Hole)
+Added Pin To Net: NetName=NetJ1_1 Pin=R2-2
+Added Net: Name=NetJ1_1
+Added Member To Class: ClassName=Sensing Member=Component C8 CL21B104KBCNNNC
+Add Class Member: Failed to add class member : Component J1 Bolt_Lug_M8
+Added Member To Class: ClassName=Sensing Member=Component R18 RC0805FR-071KL
