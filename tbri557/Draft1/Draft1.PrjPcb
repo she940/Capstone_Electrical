@@ -37,6 +37,8 @@ IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
+VaultGUID=129D426D-EDDB-411E-B869-FC95667FB701
+ReleaseVaultName=The University of Auckland - Formula SAE Team
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=129D426D-EDDB-411E-B869-FC95667FB701&ItemGUID=EFFE9271-D339-45B0-811D-A31DFC35C82B&RevisionGUID=54D1AEB2-17E4-48EC-8F8C-43CC935BD6B3&"MainFilename=FSAE_A4-1.PrjPCB"
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
@@ -49,6 +51,19 @@ CrossRefFollowFromMainSettings=1
 [Preferences]
 PrefsVaultGUID=
 PrefsRevisionGUID=
+
+[ProjectReleaseNamings]
+ProjectMarco=Capstone PCB - TB
+ProjectItemFolderPath=Projects\Playground
+ProjectItemHRID=
+Sources=SRC-`ProjectName`
+Fabrication=FAB-`ProjectName`
+Assembly=ASM-`ProjectName`-`VariantName`
+
+[Release]
+ReleaseTarget=3
+ReleaseFolderPath=[OutputPath]
+ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
 DocumentPath=Sensing.SchDoc
@@ -169,15 +184,45 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Draft1\Design Rule Check - Draft1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
 ConstraintFileCount=0
-ReleaseItemId=
+ReleaseItemId=7903F200-91DF-4872-91FF-24779EF9FB5E
 Variant=[No Variations]
-OutputJobsCount=0
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Draft1-outdoc.OutJob
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=EE698ABA-1F77-45F7-8529-A87862076440
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Draft1-outfab.OutJob
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=1D7F5704-1D15-459E-A98B-992E774DA8BC
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Draft1-outasm.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
 
 [OutputGroup1]
 Name=Netlist Outputs
