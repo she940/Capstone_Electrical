@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\silva\Documents\GitHub\Capstone_Electrical\she940\Multiple Gains.asc
-Start Time: Tue Mar 31 14:49:33 2026
+Start Time: Tue Mar 31 15:43:10 2026
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -53,67 +53,59 @@ vernier = 0.123317
 vernier = 0.164423
 Gmin = 2.15891e-07
 vernier = 0.21923
-Gmin = 1.33418e-07
-vernier = 0.292307
-vernier = 0.146154
-vernier = 0.0730768
-Gmin = 9.04641e-08
+vernier = 0.109615
+Gmin = 1.48444e-07
+vernier = 0.0548076
+vernier = 0.0274038
+Gmin = 1.38692e-07
 vernier = 0.0365384
-vernier = 0.0182692
-vernier = 0.0091346
-Gmin = 8.74369e-08
-vernier = 0.0121795
-Gmin = 8.50766e-08
-vernier = 0.0162393
-vernier = 0.0216524
-Gmin = 8.12596e-08
+vernier = 0.0487178
+Gmin = 1.25782e-07
+vernier = 0.0649571
+vernier = 0.0866095
+Gmin = 1.07787e-07
+vernier = 0.115479
+vernier = 0.0577396
 vernier = 0.0288698
-vernier = 0.0384931
-Gmin = 7.55314e-08
-vernier = 0.0513241
-Gmin = 6.73392e-08
-vernier = 0.0684321
-vernier = 0.0912428
-Gmin = 5.55756e-08
-vernier = 0.121657
-vernier = 0.162209
-Gmin = 4.09916e-08
-vernier = 0.216279
-vernier = 0.10814
-vernier = 0.0540698
-Gmin = 3.27294e-08
-vernier = 0.0270349
-vernier = 0.0135174
-vernier = 0.0180232
-Gmin = 3.2325e-08
-vernier = 0.024031
-Gmin = 3.06282e-08
-vernier = 0.0320413
-vernier = 0.0427217
-Gmin = 2.79818e-08
-vernier = 0.0569623
-vernier = 0.0759497
-Gmin = 2.42362e-08
-vernier = 0.101266
-Gmin = 1.93482e-08
-vernier = 0.135022
-vernier = 0.180029
-Gmin = 1.32941e-08
-vernier = 0.240038
-vernier = 0.320051
-Gmin = 7.35703e-09
-vernier = 0.426735
-Gmin = 2.94338e-09
-vernier = 0.568979
-vernier = 0.758639
-Gmin = 6.61606e-10
-vernier = 1
-Gmin = 7.84285e-11
-Gmin = 8.4212e-12
-Gmin = 9.04219e-13
+vernier = 0.0144349
+vernier = 0.00721745
+Gmin = 9.6839e-08
+vernier = 0.00360873
+vernier = 0.00180436
+vernier = 0.000902182
+vernier = 0.000451091
 Gmin = 0
-Gmin = 0
-Gmin stepping succeeded in finding the operating point.
+Gmin stepping failed
 
-Total elapsed time: 0.595 seconds.
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 18.9394%
+Source Step = 26.5152%
+Source Step = 29.8769%
+Source Step = 30.3504%
+Source Step = 30.8239%
+Source Step = 31.2973%
+Source Step = 31.7708%
+vernier = 0.0234375
+Source Step = 32.2917%
+Source Step = 33.0019%
+Source Step = 33.7121%
+Source Step = 34.4223%
+Source Step = 35.1326%
+vernier = 0.0351562
+Source Step = 35.8783%
+Source Step = 36.9437%
+Source Step = 37.0968%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 1.447 seconds.
 
