@@ -1,0 +1,69 @@
+* C:\Users\silva\Documents\GitHub\Capstone_Electrical\she940\Multiple Gains.asc
+R1 N005 Vi 0.6
+R2 Vi N007 2m
+R4 N009 N008 68k
+R5 N008 0 10k
+R6 N010 1V65 68k
+R7 N010 Vi 10k
+XU1 N010 N008 5V 0 N009 level5 Avol=1Meg GBW=10Meg Phimargin=45 SlewPos=10Meg SlewNeg=10Meg En=0 Enk=0 In=0 Ink=0 Rcm=500Meg Ccm=1p Rdiff=500k Cdiff=2p Ro=1k Vos=0 Ibp=2n Ibn=1n Iq=1m Rail=0 Ilimit=25m
+R8 N004 N003 330k
+R9 N003 0 10k
+R10 N006 1V65 330k
+R11 N006 Vi 10k
+XU2 N006 N003 5V 0 N004 level5 Avol=1Meg GBW=10Meg Phimargin=45 SlewPos=10Meg SlewNeg=10Meg En=0 Enk=0 In=0 Ink=0 Rcm=500Meg Ccm=1p Rdiff=500k Cdiff=2p Ro=1k Vos=0 Ibp=2n Ibn=1n Iq=1m Rail=0 Ilimit=25m
+R22 Vi N007 2m
+I1 0 N005 100
+R3 N007 0 2m
+R16 N007 0 2m
+XReg1 0 5V Vdc LT1085-5
+Cin1 Vdc 0 47µ Rser=0.001
+Cout1 5V 0 10µ Rser=0.001
+V2 N011 0 18
+R18 N011 Vv 22k
+R19 Vv 0 1k
+XU4 Vv N012 5V 0 N012 level5 Avol=1Meg GBW=10Meg Phimargin=45 SlewPos=10Meg SlewNeg=10Meg En=0 Enk=0 In=0 Ink=0 Rcm=500Meg Ccm=1p Rdiff=500k Cdiff=2p Ro=1k Vos=0 Ibp=2n Ibn=1n Iq=1m Rail=0 Ilimit=25m
+R20 Vvo N012 1k
+C2 Vvo 0 100n
+D§Z1 0 Vv D
+V1 Vdc 0 12
+D1 Vdc N001 D
+R14 N001 0 1k
+D3 Debug N002 D
+R17 N002 0 330
+R21 5V Vref 680
+R23 Vref 0 330
+XU5 Vref 1V65 5V 0 1V65 level5 Avol=1Meg GBW=10Meg Phimargin=45 SlewPos=10Meg SlewNeg=10Meg En=0 Enk=0 In=0 Ink=0 Rcm=500Meg Ccm=1p Rdiff=500k Cdiff=2p Ro=1k Vos=0 Ibp=2n Ibn=1n Iq=1m Rail=0 Ilimit=25m
+R24 vo_high N009 1k
+C4 vo_high 0 180nF
+R25 vo_low N004 1k
+C5 vo_low 0 180nF
+C1 N009 N008 2.7n
+C3 N004 N003 560p
+C6 0 N010 2.7n
+C7 0 N006 560p
+D§Z2 0 vo_low D
+D§Z3 0 vo_high D
+D§Z4 0 Vvo D
+.model D D
+.lib C:\Users\silva\AppData\Local\LTspice\lib\cmp\standard.dio
+.tran 10ms
+* Different gains for whether high current range or low current range.
+* Voltage sensing
+.model Z D(BV=3.3 IBV=1m)
+* Current Sensing
+* +-20A Range
+* +-100A Range
+* LEDs
+* Linear Regulator
+* Reference voltage buffer
+* Shunt resistor
+* Difference amplifier
+* Buffer
+* Low-pass filter
+* Low-pass filter
+* Low-pass filter
+* Simulation Commands
+.lib LT1083.lib
+.lib UniversalOpAmp5.lib
+.backanno
+.end

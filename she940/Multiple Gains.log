@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\silva\Documents\GitHub\Capstone_Electrical\she940\Multiple Gains.asc
-Start Time: Tue Mar 31 15:43:10 2026
+Start Time: Wed Apr  1 12:21:25 2026
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -107,5 +107,5 @@ Source Step = 100%
 Source Step = 100%
 Source stepping succeeded in finding the operating point.
 
-Total elapsed time: 1.447 seconds.
+Total elapsed time: 1.299 seconds.
 
