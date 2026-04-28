@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
-Circuit: * C:\Users\silva\Documents\GitHub\Capstone_Electrical\she940\Multiple Gains.asc
-Start Time: Tue Apr 28 20:56:23 2026
+Circuit: * C:\Users\silva\Documents\GitHub\Capstone_Electrical\Multiple Gains_milestone2.asc
+Start Time: Tue Apr 28 21:04:03 2026
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -142,23 +142,18 @@ Source Step = 84.585%
 vernier = 0.190058
 Source Step = 89.7684%
 Source Step = 95.5277%
-Source Step = 97.2915%
+Source Step = 98.4254%
 Starting source stepping with srcstepmethod=1
 Source Step = 3.0303%
 Source Step = 33.3333%
 Source Step = 63.6364%
 Source Step = 93.9394%
-Source Step = 99.7576%
-vernier = 0.0625
-Source Step = 99.0947%
-Source Step = 99.2131%
-Source Step = 99.3314%
-Source Step = 99.4498%
-Source Step = 99.5682%
-vernier = 0.00585938
-Source Step = 99.728%
-Source Step = 99.9055%
+Source Step = 100%
+vernier = 0.25
+Source Step = 99.3788%
+Source Step = 99.8523%
+Source Step = 100%
 Source stepping succeeded in finding the operating point.
 
-Total elapsed time: 1.985 seconds.
+Total elapsed time: 1.880 seconds.
 
